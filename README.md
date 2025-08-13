@@ -10,12 +10,9 @@
 - [📈 Key Insights](#-key-insights)
 - [📂 Project Structure](#-project-structure)
 - [🚀 How to Use](#-how-to-use)
-- [📷 Dashboard Preview](#-dashboard-preview)
 - [💡 Learnings](#-learnings)
 - [🔮 Future Improvements](#-future-improvements)
 - [🙌 Acknowledgments](#-acknowledgments)
-
----
 
 ## 📖 About the Project
 This is my **first Power BI dashboard project**, created to analyze and visualize **SuperStore Sales data**.  
@@ -27,8 +24,6 @@ The main focus was to **practice Power BI skills** including:
 - KPI tracking & interactive visuals  
 - Storytelling with data  
 
----
-
 ## 🎯 Objectives
 ✔ Analyze sales trends over time  
 ✔ Compare profits across **regions, categories, and segments**  
@@ -36,15 +31,11 @@ The main focus was to **practice Power BI skills** including:
 ✔ Understand customer & shipping behavior  
 ✔ Build an **interactive, user-friendly dashboard**  
 
----
-
 ## 🛠 Tools & Technologies
 - **Power BI Desktop** – Dashboard design & modeling  
 - **Power Query Editor** – Data cleaning & transformation  
 - **DAX (Data Analysis Expressions)** – Calculated measures & KPIs  
 - **SuperStore Sales Dataset** – Public dataset for BI practice  
-
----
 
 ## 📊 Dashboard Features
 
@@ -61,15 +52,11 @@ The main focus was to **practice Power BI skills** including:
 - Product performance by **Category** and **Sub-category**  
 - Shipping preference by mode (Standard, Second Class, First Class, Same Day)  
 
----
-
 ## 📈 Key Insights
 📍 **December** 2020 recorded the highest sales spike.  
 📍 **Standard Class** shipping was used most frequently.  
 📍 **Office Supplies** and **Technology** dominated sales.  
 📍 **Central Region** led in revenue contribution.  
-
----
 
 ## 📂 Project Structure
 ```plaintext
@@ -82,8 +69,6 @@ The main focus was to **practice Power BI skills** including:
 
 ```
 
----
-
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
@@ -92,13 +77,6 @@ The main focus was to **practice Power BI skills** including:
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Interact with filters, slicers, and visuals for deeper analysis.  
 
----
-
-## 📷 Dashboard Preview
-![SuperStore Dashboard](DashboardImage.png)
-
----
-
 ## 💡 Learnings
 Through this first Power BI project, I learned:  
 - Data cleaning with Power Query  
@@ -106,18 +84,20 @@ Through this first Power BI project, I learned:
 - Designing **interactive & aesthetic dashboards**  
 - Presenting data insights in a **storytelling format**  
 
----
+## 🔮 Future Improvements<img width="1435" height="809" alt="Dashboard Image" src="https://github.com/user-attachments/assets/b842d656-3e58-46a3-a771-ad9a15f5b685" />
 
-## 🔮 Future Improvements
 - 📊 Add sales forecasting  
 - 🗂 Implement drill-through pages  
 - 📱 Create mobile-optimized version  
-
----
 
 ## 🙌 Acknowledgments
 Thanks to the **SuperStore dataset community** for providing the data, and to all Power BI learning resources that guided me through this journey.
 
 ---
+
+Dashboard Preview:
+<img width="1435" height="809" alt="Dashboard Image" src="https://github.com/user-attachments/assets/f075d3db-7df8-4e03-8e42-3c4917fbb10b" />
+
+
 
 💙 *This is just the beginning of my data analytics journey. Many more dashboards to come!* 🚀
