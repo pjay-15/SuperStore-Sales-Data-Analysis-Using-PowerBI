@@ -84,7 +84,7 @@ Through this first Power BI project, I learned:
 - Designing **interactive & aesthetic dashboards**  
 - Presenting data insights in a **storytelling format**  
 
-## 🔮 Future Improvements<img width="1435" height="809" alt="Dashboard Image" src="https://github.com/user-attachments/assets/b842d656-3e58-46a3-a771-ad9a15f5b685" />
+## 🔮 Future Improvements
 
 - 📊 Add sales forecasting  
 - 🗂 Implement drill-through pages  
